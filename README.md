@@ -1,2 +1,3 @@
-# alg18
-Algebra 2017--2018
+# Algebra cours 2017--2018
+
+Current status: Work in progress
